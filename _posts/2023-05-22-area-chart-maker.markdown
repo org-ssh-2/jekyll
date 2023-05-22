@@ -63,3 +63,15 @@ Using Area Chart Maker is straightforward. Here are the steps to follow:
 
 Area Chart Maker is an excellent tool for creating area charts that are visually appealing and easy to understand. The tool is customizable, interactive, and responsive, making it suitable for creating charts for different devices. The website's interface is easy to navigate, and the instructions are straightforward, ensuring that users do not face difficulties. Though it has its limitations, such as limited data visualization options, the tool is an excellent choice for those looking to create visually stunning area charts. Give Area Chart Maker a try and create your charts with ease!
 
+---
+
+[Area Chart](https://chart-makers-jekyll.onrender.com/2023/05/22/area-chart-maker)
+[Bar Chart Maker](https://chart-makers-jekyll.onrender.com/2023/05/22/bar-chart-maker)
+[Box Plot Maker](https://chart-makers-jekyll.onrender.com/2023/05/22/box-plot-maker)
+[Bubble Chart Maker](https://chart-makers-jekyll.onrender.com/2023/05/22/bubble-chart-maker)
+[Heatmap Maker](https://chart-makers-jekyll.onrender.com/2023/05/22/heatmap-maker)
+[Histogram Maker](https://chart-makers-jekyll.onrender.com/2023/05/22/histogram-maker)
+[Line Chart Maker](https://chart-makers-jekyll.onrender.com/2023/05/22/line-chart-maker)
+[Pie Chart Maker](https://chart-makers-jekyll.onrender.com/2023/05/22/pie-chart-maker)
+[Scatter Plot Maker](https://chart-makers-jekyll.onrender.com/2023/05/22/scatter-plot-maker)
+
