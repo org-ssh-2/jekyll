@@ -8,7 +8,7 @@ A scatter plot, also known as a scatter diagram or scatter chart, is a graph tha
 
 ## Why use a Scatter Plot Maker?
 
-Creating a scatter plot by hand can be time-consuming and prone to errors. You need to collect the data, plot the points on the graph, and label the axes and data points. Moreover, you need to repeat this process every time you have new data. This is where a scatter plot maker comes in handy. It streamlines the process and makes it easier to create and edit scatter plots quickly and accurately. With a scatter plot maker, you can:
+Creating a scatter plot by hand can be time-consuming and prone to errors. You need to collect the data, plot the points on the graph, and label the axes and data points. Moreover, you need to repeat this process every time you have new data. This is where a [scatter plot maker](https://chart-makers-review-best.vercel.app/scatter-plot-maker) comes in handy. It streamlines the process and makes it easier to create and edit scatter plots quickly and accurately. With a scatter plot maker, you can:
 
 - Import data from CSV or Excel files
 - Colormap your data to highlight trends and outliers
@@ -17,7 +17,7 @@ Creating a scatter plot by hand can be time-consuming and prone to errors. You n
 
 ## Introducing Scatter Plot Maker
 
-Scatter Plot Maker is a web-based tool that allows you to create and customize professional-looking scatter plots online. With this tool, you don't need to have any coding skills or software installation to get started. All you need is a modern web browser, an internet connection, and your data. Scatter Plot Maker uses a drag-and-drop interface that makes it easy to visualize your data in minutes.
+[Scatter Plot Maker](https://docs.kanaries.net/charts/scatter-plot-maker) is a web-based tool that allows you to create and customize professional-looking scatter plots online. With this tool, you don't need to have any coding skills or software installation to get started. All you need is a modern web browser, an internet connection, and your data. Scatter Plot Maker uses a drag-and-drop interface that makes it easy to visualize your data in minutes.
 
 ## How to use Scatter Plot Maker
 
