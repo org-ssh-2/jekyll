@@ -26,11 +26,11 @@ The tool enables users to interact with the charts once created. Users can hover
 
 ### Responsive
 
-Area Chart Maker is responsive, meaning that the charts created on it can be viewed on various devices, such as mobile phones, tablets, and desktop computers. The tool's back-end infrastructure uses scalable cloud servers, ensuring that charts load quickly and efficiently.
+[Area Chart Maker](https://docs.kanaries.net/charts/area-chart-maker) is responsive, meaning that the charts created on it can be viewed on various devices, such as mobile phones, tablets, and desktop computers. The tool's back-end infrastructure uses scalable cloud servers, ensuring that charts load quickly and efficiently.
 
 ## How to use Area Chart Maker
 
-Using Area Chart Maker is straightforward. Here are the steps to follow:
+Using [Area Chart Maker](https://chart-makers-review-best.vercel.app/area-chart-maker) is straightforward. Here are the steps to follow:
 
 1. Visit the Area Chart Maker website.
 
