@@ -35,3 +35,15 @@ To get started with Bar Chart Maker, you need a basic understanding of data repr
 ## Conclusion
 
 Bar Chart Maker is an excellent tool to help make data visualization fun and easy. With its user-friendly interface and customization options, anyone can create a customized bar chart in just a few minutes. In addition, Bar Chart Maker is accessible from any device with an internet connection, further enhancing its usability. By using Bar Chart Maker, you can create stunning charts that will grab the attention of your audience and impress them with your data representation skills.
+
+---
+
++ [Area Chart](https://chart-makers-jekyll.onrender.com/2023/05/22/area-chart-maker)
++ [Bar Chart Maker](https://chart-makers-jekyll.onrender.com/2023/05/22/bar-chart-maker)
++ [Box Plot Maker](https://chart-makers-jekyll.onrender.com/2023/05/22/box-plot-maker)
++ [Bubble Chart Maker](https://chart-makers-jekyll.onrender.com/2023/05/22/bubble-chart-maker)
++ [Heatmap Maker](https://chart-makers-jekyll.onrender.com/2023/05/22/heatmap-maker)
++ [Histogram Maker](https://chart-makers-jekyll.onrender.com/2023/05/22/histogram-maker)
++ [Line Chart Maker](https://chart-makers-jekyll.onrender.com/2023/05/22/line-chart-maker)
++ [Pie Chart Maker](https://chart-makers-jekyll.onrender.com/2023/05/22/pie-chart-maker)
++ [Scatter Plot Maker](https://chart-makers-jekyll.onrender.com/2023/05/22/scatter-plot-maker)
