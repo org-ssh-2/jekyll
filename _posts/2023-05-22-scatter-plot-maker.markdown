@@ -52,3 +52,15 @@ Data security is a top priority for Scatter Plot Maker. Your data is securely st
 ## Conclusion
 
 Scatter Plot Maker is a versatile and user-friendly platform for creating and customizing stunning scatter plots. It offers a variety of features that make it easy to create, edit and export scatter plots in minutes. The drag-and-drop interface and easy data import options make it accessible to both experts and beginners. Whether you are a scientist, student, or business analyst, Scatter Plot Maker can help you visualize your data and communicate your findings accurately and efficiently. Try it for yourself and see how it can take your data visualization to the next level!
+
+---
+
++ [Area Chart](https://chart-makers-jekyll.onrender.com/2023/05/22/area-chart-maker)
++ [Bar Chart Maker](https://chart-makers-jekyll.onrender.com/2023/05/22/bar-chart-maker)
++ [Box Plot Maker](https://chart-makers-jekyll.onrender.com/2023/05/22/box-plot-maker)
++ [Bubble Chart Maker](https://chart-makers-jekyll.onrender.com/2023/05/22/bubble-chart-maker)
++ [Heatmap Maker](https://chart-makers-jekyll.onrender.com/2023/05/22/heatmap-maker)
++ [Histogram Maker](https://chart-makers-jekyll.onrender.com/2023/05/22/histogram-maker)
++ [Line Chart Maker](https://chart-makers-jekyll.onrender.com/2023/05/22/line-chart-maker)
++ [Pie Chart Maker](https://chart-makers-jekyll.onrender.com/2023/05/22/pie-chart-maker)
++ [Scatter Plot Maker](https://chart-makers-jekyll.onrender.com/2023/05/22/scatter-plot-maker)
