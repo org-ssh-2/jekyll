@@ -39,3 +39,15 @@ Histogram Maker simplifies the process of sharing histograms. With the export op
 ## Conclusion
 
 Histogram Maker is an effective tool for creating histograms quickly and easily. With its user-friendly interface, customizable options, export options, and real-time visualization, it has many features and benefits that make it the go-to tool for analyzing data. Whether you are a beginner or an expert, Histogram Maker is a great tool for data analysis and visualization. So, if you need to create histograms for your next presentation or analysis, be sure to check out Histogram Maker.
+
+---
+
++ [Area Chart](https://chart-makers-jekyll.onrender.com/2023/05/22/area-chart-maker)
++ [Bar Chart Maker](https://chart-makers-jekyll.onrender.com/2023/05/22/bar-chart-maker)
++ [Box Plot Maker](https://chart-makers-jekyll.onrender.com/2023/05/22/box-plot-maker)
++ [Bubble Chart Maker](https://chart-makers-jekyll.onrender.com/2023/05/22/bubble-chart-maker)
++ [Heatmap Maker](https://chart-makers-jekyll.onrender.com/2023/05/22/heatmap-maker)
++ [Histogram Maker](https://chart-makers-jekyll.onrender.com/2023/05/22/histogram-maker)
++ [Line Chart Maker](https://chart-makers-jekyll.onrender.com/2023/05/22/line-chart-maker)
++ [Pie Chart Maker](https://chart-makers-jekyll.onrender.com/2023/05/22/pie-chart-maker)
++ [Scatter Plot Maker](https://chart-makers-jekyll.onrender.com/2023/05/22/scatter-plot-maker)
