@@ -45,3 +45,15 @@ Using Box Plot Maker has several benefits that make it an ideal tool for data vi
 ## Conclusion
 
 Box Plot Maker is a powerful tool for data visualization that simplifies the process of creating customized box plots. It provides a user-friendly interface that requires no prior knowledge of coding or data analysis. Box Plot Maker allows researchers and analysts to generate professional-looking box plots quickly and easily, thus saving them time and resources. With its numerous features and benefits, Box Plot Maker is an essential tool for data visualization that can elevate the quality of any statistical analysis.
+
+---
+
++ [Area Chart](https://chart-makers-jekyll.onrender.com/2023/05/22/area-chart-maker)
++ [Bar Chart Maker](https://chart-makers-jekyll.onrender.com/2023/05/22/bar-chart-maker)
++ [Box Plot Maker](https://chart-makers-jekyll.onrender.com/2023/05/22/box-plot-maker)
++ [Bubble Chart Maker](https://chart-makers-jekyll.onrender.com/2023/05/22/bubble-chart-maker)
++ [Heatmap Maker](https://chart-makers-jekyll.onrender.com/2023/05/22/heatmap-maker)
++ [Histogram Maker](https://chart-makers-jekyll.onrender.com/2023/05/22/histogram-maker)
++ [Line Chart Maker](https://chart-makers-jekyll.onrender.com/2023/05/22/line-chart-maker)
++ [Pie Chart Maker](https://chart-makers-jekyll.onrender.com/2023/05/22/pie-chart-maker)
++ [Scatter Plot Maker](https://chart-makers-jekyll.onrender.com/2023/05/22/scatter-plot-maker)
