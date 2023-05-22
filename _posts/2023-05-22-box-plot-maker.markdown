@@ -4,11 +4,11 @@ Data visualization is an essential part of any statistical analysis, and one of 
 
 ## What is Box Plot Maker?
 
-Box Plot Maker is an online platform that allows users to visualize the distribution of their dataset through customized box plots. It is a user-friendly platform that requires no software downloading or installation process. All that is needed is an internet connection and a few clicks to generate a customized box plot. Box Plot Maker is also suitable for beginners with no prior knowledge of coding or data analysis since it offers an intuitive interface that guides and simplifies the process of box plot creation. 
+[Box Plot Maker](https://docs.kanaries.net/charts/box-plot-maker) is an online platform that allows users to visualize the distribution of their dataset through customized box plots. It is a user-friendly platform that requires no software downloading or installation process. All that is needed is an internet connection and a few clicks to generate a customized box plot. Box Plot Maker is also suitable for beginners with no prior knowledge of coding or data analysis since it offers an intuitive interface that guides and simplifies the process of box plot creation. 
 
 ## How to Use Box Plot Maker
 
-Using Box Plot Maker to create box plots is a simple and straightforward process. The following steps show how to use Box Plot Maker to generate a customized box plot:
+Using [Box Plot Maker](https://chart-makers-review-best.vercel.app/box-plot-maker) to create box plots is a simple and straightforward process. The following steps show how to use Box Plot Maker to generate a customized box plot:
 
 1. Visit the Box Plot Maker website: The first step is to visit the Box Plot Maker website (https://www.boxplotmaker.com/). This is where users can access the platform and create their box plots. 
 
