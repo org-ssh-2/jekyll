@@ -65,3 +65,15 @@ You can customize the legend of your chart, including its position, orientation,
 In conclusion, Line Chart Maker is a simple and effective tool to create line charts online. It offers several customization options to create professional-looking charts that accurately represent your data. With its easy-to-use interface, anyone can create line charts in just a few clicks. Whether you're a business owner, analyst, or researcher, Line Chart Maker is a must-have tool in your data visualization toolkit. 
 
 Try Line Chart Maker out for yourself today and see how it can take your data visualization game to the next level.
+
+---
+
++ [Area Chart](https://chart-makers-jekyll.onrender.com/2023/05/22/area-chart-maker)
++ [Bar Chart Maker](https://chart-makers-jekyll.onrender.com/2023/05/22/bar-chart-maker)
++ [Box Plot Maker](https://chart-makers-jekyll.onrender.com/2023/05/22/box-plot-maker)
++ [Bubble Chart Maker](https://chart-makers-jekyll.onrender.com/2023/05/22/bubble-chart-maker)
++ [Heatmap Maker](https://chart-makers-jekyll.onrender.com/2023/05/22/heatmap-maker)
++ [Histogram Maker](https://chart-makers-jekyll.onrender.com/2023/05/22/histogram-maker)
++ [Line Chart Maker](https://chart-makers-jekyll.onrender.com/2023/05/22/line-chart-maker)
++ [Pie Chart Maker](https://chart-makers-jekyll.onrender.com/2023/05/22/pie-chart-maker)
++ [Scatter Plot Maker](https://chart-makers-jekyll.onrender.com/2023/05/22/scatter-plot-maker)
