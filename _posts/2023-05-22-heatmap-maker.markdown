@@ -37,3 +37,15 @@ The final step of the process is to analyze the results. The heatmap generated w
 ## Conclusion
 
 Heatmaps are an essential tool for data visualization and interpretation, particularly for large data sets. Heatmap Maker offers a robust, automated, and intuitive platform for generating custom heatmaps. The tool allows analytical users to extract meaningful insights from their data without the need for complex programming or data analysis skills. Heatmap Maker is highly recommended for businesses, research institutions, and individuals who require accurate and visually appealing heatmap interpretations of their data.
+
+---
+
++ [Area Chart](https://chart-makers-jekyll.onrender.com/2023/05/22/area-chart-maker)
++ [Bar Chart Maker](https://chart-makers-jekyll.onrender.com/2023/05/22/bar-chart-maker)
++ [Box Plot Maker](https://chart-makers-jekyll.onrender.com/2023/05/22/box-plot-maker)
++ [Bubble Chart Maker](https://chart-makers-jekyll.onrender.com/2023/05/22/bubble-chart-maker)
++ [Heatmap Maker](https://chart-makers-jekyll.onrender.com/2023/05/22/heatmap-maker)
++ [Histogram Maker](https://chart-makers-jekyll.onrender.com/2023/05/22/histogram-maker)
++ [Line Chart Maker](https://chart-makers-jekyll.onrender.com/2023/05/22/line-chart-maker)
++ [Pie Chart Maker](https://chart-makers-jekyll.onrender.com/2023/05/22/pie-chart-maker)
++ [Scatter Plot Maker](https://chart-makers-jekyll.onrender.com/2023/05/22/scatter-plot-maker)
