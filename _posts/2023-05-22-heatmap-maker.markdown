@@ -6,7 +6,7 @@ Heatmap Maker is a powerful tool that allows its users to create custom heatmaps
 A heatmap is a graphical representation of data where values are presented in a table-type format using colors. The color intensity of each cell in the heatmap represents the magnitude of the respective data values. Heatmaps are widely used in data visualization to communicate the magnitude, frequency and distribution of data. They help to uncover patterns that are not evident in conventional table-type data visualizations. A heatmap neatly represents complex data sets by providing an easy-to-understand visual representation.
 
 ## Why Choose Heatmap Maker?
-Heatmap Maker is a dedicated tool for generating heatmaps. It offers an intuitive, user-friendly interface that requires no prior knowledge of programming or data analysis. The tool enables users to easily ingest raw data, visualize it in a heatmap, and analyze the results. Heatmap Maker offers several predefined templates that seamlessly integrate with the uploaded data sets. The tool also allows customization of the color scale, cell shape, and orientation. Heatmap Maker saves time and effort, eliminates the need to write complex scripts, and generates heatmaps within minutes. Here are the key features of Heatmap Maker:
+[Heatmap Maker](https://chart-makers-review-best.vercel.app/heatmap-maker) is a dedicated tool for generating heatmaps. It offers an intuitive, user-friendly interface that requires no prior knowledge of programming or data analysis. The tool enables users to easily ingest raw data, visualize it in a heatmap, and analyze the results. Heatmap Maker offers several predefined templates that seamlessly integrate with the uploaded data sets. The tool also allows customization of the color scale, cell shape, and orientation. Heatmap Maker saves time and effort, eliminates the need to write complex scripts, and generates heatmaps within minutes. Here are the key features of Heatmap Maker:
 
 - Easy-to-use: The tool is designed to be user-friendly and requires no prior experience in data analysis or programming.
 - Automated: The tool automatically generates a heatmap from uploaded data, thus eliminating the need to write complex scripts or formulas.
@@ -24,7 +24,7 @@ To create a heatmap, you need to upload your data set in one of the supported fo
 
 ### Step 2: Choose a Template
 
-Heatmap Maker offers several pre-defined templates that you can choose from. These templates are designed to be visually appealing and offer an intuitive design for interpreting data. You can select a template that closely matches your requirements, or you can customize it later.
+[Heatmap Maker](https://docs.kanaries.net/charts/heatmap-maker) offers several pre-defined templates that you can choose from. These templates are designed to be visually appealing and offer an intuitive design for interpreting data. You can select a template that closely matches your requirements, or you can customize it later.
 
 ### Step 3: Customize the Heatmap
 
