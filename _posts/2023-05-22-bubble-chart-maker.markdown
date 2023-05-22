@@ -1,6 +1,6 @@
 # Bubble Chart Introduction
 
-Bubble Chart Maker is an online tool that allows you to create a bubble chart in a matter of minutes. A bubble chart is a type of chart that displays data in the form of bubbles. The size of the bubbles represents the value of the data, and the colors of the bubbles represent different categories or groups.
+[Bubble Chart Maker](https://chart-makers-review-best.vercel.app/bubble-chart-maker) is an online tool that allows you to create a bubble chart in a matter of minutes. A bubble chart is a type of chart that displays data in the form of bubbles. The size of the bubbles represents the value of the data, and the colors of the bubbles represent different categories or groups.
 
 Bubble charts are a great way to visualize large amounts of data in a single chart. They are used in a variety of industries, including finance, marketing, and healthcare.
 
@@ -12,7 +12,7 @@ Bubble Chart Maker is a user-friendly online tool that allows you to create beau
 
 ## Customization
 
-Bubble Chart Maker allows you to customize the appearance of your chart. You can change the colors of the bubbles, add a title and legend, and adjust the size of the bubbles. You can also choose from a variety of bubble styles, including circles, squares, and triangles.
+[Bubble Chart Maker](https://docs.kanaries.net/charts/bubble-chart-maker) allows you to customize the appearance of your chart. You can change the colors of the bubbles, add a title and legend, and adjust the size of the bubbles. You can also choose from a variety of bubble styles, including circles, squares, and triangles.
 
 ## Data Import
 
