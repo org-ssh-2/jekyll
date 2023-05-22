@@ -6,13 +6,13 @@ If you're looking for an efficient way to create line charts, Line Chart Maker i
 
 ## Overview
 
-Line Chart Maker is a web-based application that allows you to create, customize, and share line charts with ease. It offers a user-friendly interface that's easy to navigate, even if you have no prior experience with data visualization.
+[Line Chart Maker](https://docs.kanaries.net/charts/line-chart-maker) is a web-based application that allows you to create, customize, and share line charts with ease. It offers a user-friendly interface that's easy to navigate, even if you have no prior experience with data visualization.
 
 The tool allows you to import your data from a CSV file or enter it manually. Once you have your data, you can choose from a variety of chart types, customize your chart's layout, and add annotations and labels.
 
 ## Getting started
 
-To get started with Line Chart Maker, you'll need to create an account. You can sign up for free using your email address, Google, or GitHub account. Once you have an account, you'll be taken to the main dashboard, where you can create a new chart or access your existing ones.
+To get started with [Line Chart Maker](https://chart-makers-review-best.vercel.app/line-chart-maker), you'll need to create an account. You can sign up for free using your email address, Google, or GitHub account. Once you have an account, you'll be taken to the main dashboard, where you can create a new chart or access your existing ones.
 
 To create a new chart, click on the "Create Chart" button. You'll be prompted to enter your data. You can either upload a CSV file or enter your data manually.
 
