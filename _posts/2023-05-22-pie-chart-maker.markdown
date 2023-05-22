@@ -62,6 +62,18 @@ Use proper labeling and legends to provide context and explanation for your data
 
 There are several types of pie charts, depending on how the slices are arranged or sorted. The most common type is the standard pie chart, where the slices are arranged in order of magnitude. However, you can also use other types of pie charts, such as donut charts (where there is a hole in the middle of the pie), exploded pie charts (where one or more slices are pulled out from the rest), or three-dimensional pie charts (where the chart is rendered in a three-dimensional view).
 
-In Conclusion 
+## In Conclusion 
 
 Pie chart makers can be a powerful tool for enhancing your data visualization and making your insights more appealing and understandable to your audience. By choosing the right pie chart maker, you can save time, improve the quality of your charts, and have more flexibility in designing them. Additionally, by following the tips for effective pie chart design, you can create compelling visualizations that communicate your message clearly and accurately.
+
+---
+
++ [Area Chart](https://chart-makers-jekyll.onrender.com/2023/05/22/area-chart-maker)
++ [Bar Chart Maker](https://chart-makers-jekyll.onrender.com/2023/05/22/bar-chart-maker)
++ [Box Plot Maker](https://chart-makers-jekyll.onrender.com/2023/05/22/box-plot-maker)
++ [Bubble Chart Maker](https://chart-makers-jekyll.onrender.com/2023/05/22/bubble-chart-maker)
++ [Heatmap Maker](https://chart-makers-jekyll.onrender.com/2023/05/22/heatmap-maker)
++ [Histogram Maker](https://chart-makers-jekyll.onrender.com/2023/05/22/histogram-maker)
++ [Line Chart Maker](https://chart-makers-jekyll.onrender.com/2023/05/22/line-chart-maker)
++ [Pie Chart Maker](https://chart-makers-jekyll.onrender.com/2023/05/22/pie-chart-maker)
++ [Scatter Plot Maker](https://chart-makers-jekyll.onrender.com/2023/05/22/scatter-plot-maker)
