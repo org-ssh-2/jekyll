@@ -1,4 +1,4 @@
-# Introduction
+# Bubble Chart Introduction
 
 Bubble Chart Maker is an online tool that allows you to create a bubble chart in a matter of minutes. A bubble chart is a type of chart that displays data in the form of bubbles. The size of the bubbles represents the value of the data, and the colors of the bubbles represent different categories or groups.
 
@@ -63,3 +63,15 @@ Bubble Chart Maker allows you to share your chart with others. You can export yo
 # Conclusion
 
 Bubble Chart Maker is an excellent tool for businesses and individuals who need to create bubble charts. It is easy to use, customizable, and cost-effective. With Bubble Chart Maker, you can quickly create a chart that displays your data in a clear and concise manner. Try it out today and see how it can benefit you!
+
+---
+
++ [Area Chart](https://chart-makers-jekyll.onrender.com/2023/05/22/area-chart-maker)
++ [Bar Chart Maker](https://chart-makers-jekyll.onrender.com/2023/05/22/bar-chart-maker)
++ [Box Plot Maker](https://chart-makers-jekyll.onrender.com/2023/05/22/box-plot-maker)
++ [Bubble Chart Maker](https://chart-makers-jekyll.onrender.com/2023/05/22/bubble-chart-maker)
++ [Heatmap Maker](https://chart-makers-jekyll.onrender.com/2023/05/22/heatmap-maker)
++ [Histogram Maker](https://chart-makers-jekyll.onrender.com/2023/05/22/histogram-maker)
++ [Line Chart Maker](https://chart-makers-jekyll.onrender.com/2023/05/22/line-chart-maker)
++ [Pie Chart Maker](https://chart-makers-jekyll.onrender.com/2023/05/22/pie-chart-maker)
++ [Scatter Plot Maker](https://chart-makers-jekyll.onrender.com/2023/05/22/scatter-plot-maker)
