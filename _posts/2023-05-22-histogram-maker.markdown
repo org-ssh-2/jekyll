@@ -16,11 +16,11 @@ Histogram Maker allows users to customize their histograms in several ways. The 
 
 ### Export Options
 
-Histogram Maker lets users save and share their histograms in a variety of formats. Users can save their histograms in PNG, JPG, or SVG formats, allowing them to use the output in presentations or reports. Furthermore, the tool allows users to share the histogram directly from the application, making it easy to collaborate with colleagues or share the information with stakeholders.
+[Histogram Maker](https://chart-makers-review-best.vercel.app/histogram-maker) lets users save and share their histograms in a variety of formats. Users can save their histograms in PNG, JPG, or SVG formats, allowing them to use the output in presentations or reports. Furthermore, the tool allows users to share the histogram directly from the application, making it easy to collaborate with colleagues or share the information with stakeholders.
 
 ### Real-time Visualisation
 
-As users add data to Histogram Maker, they can see the histogram update in real-time. This feature is particularly helpful for users who want to quickly test different data sets and see how the histogram changes. It also allows users to quickly spot any errors or inconsistencies in the data.
+As users add data to [Histogram Maker](https://docs.kanaries.net/charts/histogram-maker), they can see the histogram update in real-time. This feature is particularly helpful for users who want to quickly test different data sets and see how the histogram changes. It also allows users to quickly spot any errors or inconsistencies in the data.
 
 ## Benefits of Histogram Maker
 
